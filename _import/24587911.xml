@@ -1,0 +1,52 @@
+<item>
+	<title>Instead of blogging about San Diego….</title>
+	<link>http://www.briankirsten.com/2004/08/01/instead-of-blogging-about-san-diego</link>
+	<pubDate>Sun Aug 01 21:03:47 -0700 2004</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="ranting"><![CDATA[ranting]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2004/08/01/instead-of-blogging-about-san-diego</guid>
+	<description></description>
+	<content:encoded><![CDATA[I'll blog about computer problems! So I got home from <a href="http://www.comic-con.org/">San Diego</a> on Monday, heading back into a hectic work week. Sometime mid-week the server that had been running this site and a couple of other sites started making a clicking noise.
+
+That's never good.
+
+It sounded like the hard drive in the machine was on it's last legs. I removed the machine from it's closet home (in my bedroom), opened her up, dusted it out and moved it to my office. It ran for about a day, then seized up again. Nothing. She was kaput, dead as a doornail.
+
+<div class='p_embed p_image_embed'>
+<img alt="Media_httpwwwchristin_tdjfx" height="100" src="http://getfile0.posterous.com/getfile/files.posterous.com/import-qtog/GvvvmnvfuxrJHBwJlgtuvgyaztvoqqDblhyyedzvjIpgkIpDDxhFtbghwcIB/media_httpwwwchristin_tdJFx.jpg.scaled500.jpg" width="105" />
+</div>
+
+<!--more-->
+So on Saturday we combed Orlando ("Comb the desert!"), for an inexpensive machine I can throw <a href="http://www.redhat.com/">Redhat</a> on and rebuild into a bigger, better webserver. We found one at the <a href="http://www.cbwnet.com/index.php">Computer Builders Warehouse</a> near my work, a barebones unit, that we just had to throw a hard drive and cd-rom into. And that's what is serving these pages right now. Hooray for linux!
+
+<div class='p_embed p_image_embed'>
+<img alt="Media_httpwwwchristin_atcxf" height="100" src="http://getfile1.posterous.com/getfile/files.posterous.com/import-qtog/rbHiCAAEduzItaFfvHxjwqzEiyoalfrbHgAqzfEDwvqDcIdDydlGuaprCJxH/media_httpwwwchristin_Atcxf.jpg.scaled500.jpg" width="58" />
+</div>
+
+
+I'll get to writing about San Diego soon...I swear!]]></content:encoded>
+	<excerpt:encoded><![CDATA[I'll blog about computer problems! So I got home from San Diego on Monday, heading back into a hectic work week. Sometime mid-week the server that had been running this site and a couple of other sites started making a clicking noise. That's never...]]></excerpt:encoded>	
+
+	<wp:post_date>Sun Aug 01 21:03:47 -0700 2004</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2004/08/01/instead-of-blogging-about-san-diego</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

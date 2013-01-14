@@ -1,0 +1,36 @@
+<item>
+	<title>For you subscribers…</title>
+	<link>http://www.briankirsten.com/2005/03/22/for-you-subscribers</link>
+	<pubDate>Tue Mar 22 17:22:34 -0800 2005</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="ranting"><![CDATA[ranting]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2005/03/22/for-you-subscribers</guid>
+	<description></description>
+	<content:encoded><![CDATA[For the very few of you that subscribe to this blog I've made a few changes. First off I'm redirecting folks to my <a href="http://feeds.feedburner.com/TheMonkeyKingsDomain">Feedburner</a> version of my feed, for a variety of reasons, such as they automagically add new images from my <a href="http://www.flickr.com/photos/monkeyking/">Flickr gallery</a> when I post them and Feedburner adds my <a href="http://del.icio.us/bkirsten">Del.icio.us</a> bookmarks to the feed as well. Also Feedburner provides a cute little image indicating how many of you are subscribed, which is nice (or depressing).
+
+I just added the Del.icio.us bookmark bit because I've been using that service a bit more often and I've decided just posting a link I like (for research or whatnot) on this blog is silly, unless I want to provide some commentary on the link. Most times I don't, so throwing it into deli.icio.us works for me.]]></content:encoded>
+	<excerpt:encoded><![CDATA[For the very few of you that subscribe to this blog I've made a few changes. First off I'm redirecting folks to my Feedburner version of my feed, for a variety of reasons, such as they automagically add new images from my Flickr gallery when I pos...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Mar 22 17:22:34 -0800 2005</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2005/03/22/for-you-subscribers</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

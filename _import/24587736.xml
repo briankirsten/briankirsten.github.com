@@ -1,0 +1,36 @@
+<item>
+	<title>Web File Browser</title>
+	<link>http://www.briankirsten.com/2004/06/03/web-file-browser</link>
+	<pubDate>Fri Jun 04 01:47:44 -0700 2004</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="research"><![CDATA[research]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2004/06/03/web-file-browser</guid>
+	<description></description>
+	<content:encoded><![CDATA["Web File Browser is a simple open-source file browser written in PHP (1 single file) that allows users to create, delete, edit, copy, rename, move and upload files and directories thru a light, full-text, web-based interface"
+
+<a href="http://www.webfilebrowser.org/">Information here!</a>]]></content:encoded>
+	<excerpt:encoded><![CDATA["Web File Browser is a simple open-source file browser written in PHP (1 single file) that allows users to create, delete, edit, copy, rename, move and upload files and directories thru a light, full-text, web-based interface" Information here!]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Jun 04 01:47:44 -0700 2004</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2004/06/03/web-file-browser</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

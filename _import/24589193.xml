@@ -1,0 +1,45 @@
+<item>
+	<title>Apples to Oranges</title>
+	<link>http://www.briankirsten.com/2007/02/09/apples-to-oranges</link>
+	<pubDate>Fri Feb 09 16:41:47 -0800 2007</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="interestinglinks"><![CDATA[interestinglinks]]></category>
+	
+		<category domain="tag" nicename="ranting"><![CDATA[ranting]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2007/02/09/apples-to-oranges</guid>
+	<description></description>
+	<content:encoded><![CDATA[This is an argument I have with a ton of people, that they can price out a PC with the same configuration as a Mac for cheaper. This commenter on <a href="http://apple.slashdot.org/comments.pl?sid=221394&amp;cid=17942354">Slashdot explains it succinctly</a>.
+
+<blockquote>I think the problem most Slashdotters have is that they can't conceive of building the type of machines Apple sells. You can get a 20" iMac with a 2.16 GHz Core 2 Duo and 1GB of memory for $1500. You can get a roughly comparable Dell Dimension E520 for $850. But it's not really "comparable". It comes with a 1.8 GHz processor with 2MB of cache, instead of the 2.16 GHz with 4MB. It comes with DDR2-533, instead of DDR2-667. It has no DVD burner, a GeForce 7300LE, and a 17" display.
+
+You can't even configure that machine to be comparable to the iMac. To get in the same ballpark, you've got to jump up to an XPS 410, up the CPU to 2.13 GHz, add the 2007WFP and the Radeon 1300 Pro. Now you're at $1487, and you still have half the cache, a slower graphics card, no firewire, no wi-fi, no bluetooth, no webcam, and no remote. And it'll still take up much more space in your office!
+
+So yes, even with the Intel Macs, you can get machines cheaper than what Apple well sell them for. However, it's no surprise you can get a cheaper machine with lesser hardware! However, if you try to match the basic specs, and a couple of the accessories (ie: no consumer machine today should ship without wifi!) you're not going to save a lot of money over the Mac.
+</blockquote>
+
+The commenter was commenting on this <a href="http://apple.slashdot.org/article.pl?sid=07/02/08/2031244&amp;from=rss">article</a> on Slashdot.]]></content:encoded>
+	<excerpt:encoded><![CDATA[This is an argument I have with a ton of people, that they can price out a PC with the same configuration as a Mac for cheaper. This commenter on Slashdot explains it succinctly. I think the problem most Slashdotters have is that they can't concei...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Feb 09 16:41:47 -0800 2007</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2007/02/09/apples-to-oranges</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

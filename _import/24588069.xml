@@ -1,0 +1,34 @@
+<item>
+	<title>Fluid chip does binary logic</title>
+	<link>http://www.briankirsten.com/2004/10/07/fluid-chip-does-binary-logic</link>
+	<pubDate>Thu Oct 07 14:22:38 -0700 2004</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2004/10/07/fluid-chip-does-binary-logic</guid>
+	<description></description>
+	<content:encoded><![CDATA[<a href="http://trnmag.com/Stories/2004/100604/Fluid_chip_does_binary_logic_100604.html"> Researchers are working schemes to carry out logic operations with microfluidic chips, which push tiny amounts of fluid through channels and are usually used to perform biological and chemical testing. The ability to carry out logic operations using liquid could be a useful part of a lab-on-a-chip.  Researchers from the Colorado School of Mines have constructed microfluidic gates that use the relative flow resistance of liquid to carry out the basic logic operations NOT, AND, OR, XOR, NOR and NAND. The researchers have also combined a pair of gates into a half adder, which carries out half the operation of addition. </a>
+
+(Link courtesy of <a href="http://slashdot.org">Slashdot</a>)]]></content:encoded>
+	<excerpt:encoded><![CDATA[Researchers are working schemes to carry out logic operations with microfluidic chips, which push tiny amounts of fluid through channels and are usually used to perform biological and chemical testing. The ability to carry out logic operations usi...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Oct 07 14:22:38 -0700 2004</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2004/10/07/fluid-chip-does-binary-logic</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

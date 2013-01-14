@@ -1,0 +1,42 @@
+<item>
+	<title>Hey, what about a website?</title>
+	<link>http://www.briankirsten.com/2005/05/17/hey-what-about-a-website</link>
+	<pubDate>Tue May 17 20:02:43 -0700 2005</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="research"><![CDATA[research]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2005/05/17/hey-what-about-a-website</guid>
+	<description></description>
+	<content:encoded><![CDATA[Being in the <a href="http://en.wikipedia.org/wiki/Information_technology">IT</a> industry, folks ask me a whole lot of computer questions, the most famous being "How do I get a website?", that question was asked most recently by a friend of <a href="http://www.christinekirsten.com/">Christine's</a> <a href="http://www.spiralbuddy.com/">sister</a>. I liked the answer I gave so here it is:
+
+I'm a huge believer in blogging now, it's a great way to interject your opinions, build a base, and throw your stuff at them (<a href="http://www.touch-of-death.com/">comics you write</a>, <a href="http://www.flickr.com/photos/monkeyking/">pictures you take</a>, etc, etc). I've noticed that they (blogs) seem to generate a whole lot more traffic that a normal website if you know what your doing.
+
+That being in mind, let's go down the blogging route. If your friend is relatively computer illiterate, he or she can visit <a href="http://www.blogger.com/">Blogger</a> or <a href="http://www.livejournal.com/">LiveJournal</a> and setup an account. A URL is given to the user and they can begin blogging automagically. I believe you can even tweak the blog a bit to colors/themes etc. Does the person have pictures? For God sake have them use <a href="http://www.flickr.com">Flickr</a>, you can blog the pictures directly from Flickr quite easily (every picture has an option to "Blog This").
+
+Now let's say your friend is computer literate, then there's a whole world of possibility (sticking with the blogging theme), they can use/install <a href="http://www.movabletype.org/">Movable Type</a>, which is the software I use to blog on Monkey King's Domain. Or they can use <a href="http://wordpress.org/">Wordpress</a>, the software I use for the <a href="http://www.rosecomic.com/updates/">Rose from the Ashes blog</a>. Both of these are tremendously easy to install (trust me if I can figure it out most people can do it too). Or if that person is REALLY REALLY computer literate they can write their own blogging software (sort of), like what I did for <a href="http://cbrm.brainscanstudios.net">Comic Book Review Machine</a>. Now I won't mention the fact that all of the computer literate options will involve getting hosting somewhere, with PHP/CGI/MySQL access because a computer literate person should either A) know this or B) can figure it out when they can't install the software on their toaster.
+
+This should get the person down the right path, but there's still a huge realm of possiblities for what can be done with/to their blog.]]></content:encoded>
+	<excerpt:encoded><![CDATA[Being in the IT industry, folks ask me a whole lot of computer questions, the most famous being "How do I get a website?", that question was asked most recently by a friend of Christine's sister. I liked the answer I gave so here it is: I'm a huge...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue May 17 20:02:43 -0700 2005</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2005/05/17/hey-what-about-a-website</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

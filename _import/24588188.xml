@@ -1,0 +1,38 @@
+<item>
+	<title>New Store!</title>
+	<link>http://www.briankirsten.com/2005/01/30/new-store</link>
+	<pubDate>Sun Jan 30 07:02:20 -0800 2005</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="ranting"><![CDATA[ranting]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2005/01/30/new-store</guid>
+	<description></description>
+	<content:encoded><![CDATA[Been working on building a store for all the stuff we want to sell through Brain Scan Studios, started playing with OSCommerce but I ended up using <a href="http://www.zen-cart.com/modules/frontpage/">Zen Cart</a> because it worked well with my merchant account service and it was a bit easier to manipulate the design of the cart. Now the new store is prettier, fancier, the credit card processing isn't as clunky as before, and I bought an SSL certificate (The prior store would bounce over to my merchant account's website using their SSL certificate), this is much more sexy looking.
+
+<a href="http://www.brainscanstudios.net/store">Check out the new store</a>
+
+Check back often, I'll be moving Christine's photographic prints there as well some Touch of Death T-Shirts I have left over and I've got some new t-shirt designs I'm kicking around as well. Oh and possibly a print of Andrew Robinson's amazing cover for <a href="http://www.rosecomic.com">Rose #1</a>.]]></content:encoded>
+	<excerpt:encoded><![CDATA[Been working on building a store for all the stuff we want to sell through Brain Scan Studios, started playing with OSCommerce but I ended up using Zen Cart because it worked well with my merchant account service and it was a bit easier to manipul...]]></excerpt:encoded>	
+
+	<wp:post_date>Sun Jan 30 07:02:20 -0800 2005</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2005/01/30/new-store</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

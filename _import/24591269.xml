@@ -1,0 +1,45 @@
+<item>
+	<title>links for 2008-11-19</title>
+	<link>http://www.briankirsten.com/2008/11/19/links-for-2008-11-19</link>
+	<pubDate>Wed Nov 19 21:02:35 -0800 2008</pubDate>
+	
+	<dc:creator><![CDATA[Brian Kirsten]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="interestinglinks"><![CDATA[interestinglinks]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.briankirsten.com/2008/11/19/links-for-2008-11-19</guid>
+	<description></description>
+	<content:encoded><![CDATA[<ul class="delicious">
+<li>
+                <div class="delicious-link"><a href="http://lifescaler.com/2008/06/database-sharding-unraveled-part-iii/">Database sharding unraveled - part III : Lifescaler</a></div>
+                
+                <div class="delicious-tags">(tags: <a href="http://delicious.com/bkirsten/scaling">scaling</a> <a href="http://delicious.com/bkirsten/scalability">scalability</a> <a href="http://delicious.com/bkirsten/mysql">mysql</a> <a href="http://delicious.com/bkirsten/grid">grid</a> <a href="http://delicious.com/bkirsten/database">database</a> <a href="http://delicious.com/bkirsten/sharding">sharding</a>)</div>
+            </li>
+<li>
+                <div class="delicious-link"><a href="http://www.java-tips.org/java-se-tips/java.lang/array-based-queue-implementation-in-java.html">Java Tips - Array-based Queue Implementation in Java</a></div>
+                <div class="delicious-extended">In providing services in computer science, transport, and operations research a queue is a buffer where various entities such as data, objects, persons, or events are stored and waiting to be processed. The most well known operation of the queue is the First-In-First-Out (FIFO) queue process — In a FIFO queue, the first element in the queue will be the first one out; this is equivalent to the requirement that whenever an element is added, all elements that were added before have to be removed before the new element can be invoked.</div>
+                <div class="delicious-tags">(tags: <a href="http://delicious.com/bkirsten/array">array</a> <a href="http://delicious.com/bkirsten/queue">queue</a> <a href="http://delicious.com/bkirsten/java">java</a> <a href="http://delicious.com/bkirsten/fifo">fifo</a> <a href="http://delicious.com/bkirsten/programming">programming</a> <a href="http://delicious.com/bkirsten/development">development</a>)</div>
+            </li>
+</ul>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Database sharding unraveled - part III : Lifescaler (tags: scaling scalability mysql grid database sharding) Java Tips - Array-based Queue Implementation in Java In providing services in computer science, transport, and operations research a queue...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Nov 19 21:02:35 -0800 2008</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>2008/11/19/links-for-2008-11-19</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>
